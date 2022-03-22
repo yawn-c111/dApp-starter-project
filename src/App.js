@@ -178,6 +178,7 @@ const App = () => {
     <div className="mainContainer">
       <div className="dataContainer">
         <div className="header">
+        <span>こちらのdAppはRopstenテストネットワークを使用しております。</span>
         <span role="img" aria-label="hand-wave">👋</span> WELCOME!
         </div>
         <div className="bio">
