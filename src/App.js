@@ -180,7 +180,7 @@ const App = () => {
         <div className="header">
         <span role="img" aria-label="hand-wave">👋</span> WELCOME!
         </div>
-        <br className="bio">
+        <div className="bio">
           こちらのdAppはRopstenテストネットワークを使用しております。<br />
           イーサリアムウォレットを接続して、メッセージを作成したら、<span role="img" aria-label="hand-wave">👋</span>を送ってください<span role="img" aria-label="shine">✨</span>
         </div>
