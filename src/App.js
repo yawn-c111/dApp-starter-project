@@ -178,10 +178,10 @@ const App = () => {
     <div className="mainContainer">
       <div className="dataContainer">
         <div className="header">
-        <span>こちらのdAppはRopstenテストネットワークを使用しております。</span>
         <span role="img" aria-label="hand-wave">👋</span> WELCOME!
         </div>
         <div className="bio">
+          こちらのdAppはRopstenテストネットワークを使用しております。
           イーサリアムウォレットを接続して、メッセージを作成したら、<span role="img" aria-label="hand-wave">👋</span>を送ってください<span role="img" aria-label="shine">✨</span>
         </div>
         <br />
